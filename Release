@@ -6,3 +6,5 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: spiri2 jailbreak repository
+Icon: https://repo.spiri2.com/spiri2.png
+SileoIcon: https://repo.spiri2.com/spiri2.png
