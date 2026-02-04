@@ -1,28 +1,13 @@
 Package: com.spiri2.apex
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: spiri2
-Depends: firmware (>=15.0)
-Filename: debs/com.spiri2.apex_1.0.5_iphoneos-arm64.deb
-Size: 11133220
-MD5sum: 56aa8c8520c8f5afd359e75a06c48d29
-SHA1: fe949b452d79fdf74fbad98f4237eee827d4c689
-SHA256: 507bde602124507377ade88294999c00e4167c24f16cebb4d2f9533a712fbc51
-Section: Utilities
-Description: Apex is a Pokémon GO companion app that provides live coordinates for spawns, raids, nests, friend codes, trading tools, and more.
-Author: spiri2
-Name: Apex for Pokémon GO
-
-Package: com.spiri2.apex
 Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: spiri2
 Depends: firmware (>=15.0)
 Filename: debs/com.spiri2.apex_1.0.6_iphoneos-arm64.deb
-Size: 11131964
-MD5sum: f25c93e6c6ccc4cf1dedd76d7cebec26
-SHA1: 3b3ef656af1b670cbde9913f5aebee413da2938a
-SHA256: d35133491e1847a913f84e0581b9ee5e449f1239b40fc524d9eb836683418fa2
+Size: 18682800
+MD5sum: ad8c0f791d3e4030f144c0d4d358e48d
+SHA1: 395cd88a9d55aa193260c7481021405f529ca0bf
+SHA256: e69bf5cd1017184575a52a315a3408b563852693273c91150d2ac61077d87ddc
 Section: Utilities
 Description: Apex is a Pokémon GO companion app that provides live coordinates for spawns, raids, nests, friend codes, trading tools, and more.
 Author: spiri2
