@@ -1,3 +1,19 @@
+Package: com.spiri.apexol
+Version: 0.1.32
+Architecture: iphoneos-arm64
+Maintainer: spiri2
+Installed-Size: 544
+Depends: firmware (>= 15.0)
+Filename: debs/com.spiri.apexol_0.1.32_iphoneos-arm64.deb
+Size: 61846
+MD5sum: 81e2eb8bc96e0940890719be91cf8c44
+SHA1: f9dfb567ef70775b9f2575cb78b62966c9069ce3
+SHA256: 5bfc048118b150e604a86a0c7c5317da4a2fe116c548db8e15d238155167f573
+Section: Tweaks
+Description: Floating home button overlay
+Author: spiri2
+Name: ApexOL
+
 Package: com.spiri.atremote.receiver
 Version: 0.1.4
 Architecture: iphoneos-arm64
