@@ -14,18 +14,3 @@ Description: ApexOL is a Pokémon GO companion overlay that provides live coordi
 Author: spiri2
 Name: ApexOL
 
-Package: com.spiri.atremote.receiver
-Version: 0.1.4
-Architecture: iphoneos-arm64
-Maintainer: spiri2
-Installed-Size: 724
-Depends: firmware (>= 15.0), ellekit
-Filename: debs/com.spiri.atremote.receiver_0.1.4_iphoneos-arm64.deb
-Size: 34430
-MD5sum: d37781a30ccac31e0544e1101f7b0c9f
-SHA1: 0a726432bded99ed24565bb60279462010e5343c
-SHA256: 083a5bb0cb118cef43de00a690f99a20a7f7763356e820e71ba349c71d3bf525
-Section: Tweaks
-Description: LAN receiver for ATremote (AutoTouch proxy). Pairing-code protected.
-Name: ATremote Receiver
-
