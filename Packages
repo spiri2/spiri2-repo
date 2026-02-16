@@ -1,14 +1,14 @@
 Package: com.spiri.apexol
-Version: 0.3.0
+Version: 0.3.1
 Architecture: iphoneos-arm64
 Maintainer: spiri2
 Installed-Size: 1628
 Depends: firmware (>= 15.0)
-Filename: debs/com.spiri.apexol_0.3.0_iphoneos-arm64.deb
-Size: 364062
-MD5sum: 022e47f4c684fe4b344f6036316ba9df
-SHA1: 995b092c15c067da652c6164df2ce08970be052a
-SHA256: a60f0747201334a205c8c6573afd88d65dede42425ebfebb843f9232ab342bf0
+Filename: debs/com.spiri.apexol_0.3.1_iphoneos-arm64.deb
+Size: 366738
+MD5sum: 814c6ccecf6a0eb331920851093a7739
+SHA1: 6cd8aa357c87f9cb7e61f3297b2a6dda3a71e17b
+SHA256: d25b8d0c264d072c4ef88194d856fa7f9935f3ec1af7ca8b7cbf2cf8102c4f57
 Section: Tweaks
 Description: Floating home button overlay
 Author: spiri2
