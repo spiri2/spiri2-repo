@@ -14,3 +14,19 @@ Description: Floating home button overlay
 Author: spiri2
 Name: ApexOL
 
+Package: com.spiri.apexreceiver
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: spiri2
+Installed-Size: 200
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.spiri.apexreceiver_0.0.1-1+debug_iphoneos-arm64.deb
+Size: 17534
+MD5sum: 122de7cd05a4aec176bcaa84a29f1771
+SHA1: 251c8c1e5e8cf89943f3f54d1d5f22d3cbeaf9f7
+SHA256: 83a90a0a14a2a2193bb195a247eada2333dc9847e84a45713e6964938e307eee
+Section: Tweaks
+Description: Remote screenshot receiver tweak for jailbroken devices.
+Author: spiri2
+Name: Apex Receiver
+
