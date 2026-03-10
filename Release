@@ -1,8 +1,21 @@
 Origin: spiri2
-Label: spiri2 Repo
+Label: spiri2
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: spiri2 jailbreak repo
+Description: Apex packages
+Date: Tue, 10 Mar 2026 16:17:38 UTC
+MD5Sum:
+ e5899cf806feb173bda9811cfc434519 974 Packages
+ 9f12de105c59aa8433eb690085522b08 549 Packages.gz
+ 7f9d533d33e2af443f172db1830381b8 621 Packages.bz2
+SHA1:
+ a972799e96dfaac9088ede5913b95278e1b6aebb 974 Packages
+ 1b86be13915bb101a13a9733c90b05f32a5720a7 549 Packages.gz
+ aec871829601d7fe7771276aed3d1a5c9c9b9256 621 Packages.bz2
+SHA256:
+ 3d24cc6d07e105dc245c7e9fedf5be59344be89cf96093664255676464978096 974 Packages
+ 491c2128d5eaa9ec1791782d6b7738ecc6795447e4190a03e68649b93d779364 549 Packages.gz
+ 76105212738cdad0df5ee9695741f13050738dbf5d7a6d04c2378e1a064bc51a 621 Packages.bz2
