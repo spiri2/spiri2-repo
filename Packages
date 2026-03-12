@@ -21,10 +21,10 @@ Maintainer: spiri2
 Installed-Size: 520
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.spiri.apexreceiver_0.0.86_iphoneos-arm64.deb
-Size: 88010
-MD5sum: e41b7f3601291f097a1f4516fcb2e5f4
-SHA1: 9e7f96151f239a9745f0489228eecc2b4cc1b451
-SHA256: 2b7423aff59efc8756334b786d36035ad3e99598b00b1a2e167efc7e5c784970
+Size: 87782
+MD5sum: c77d67c4c42f18dbe843f3d41478346a
+SHA1: c09088171d57c63edc8ad2d4c5388513e1d894e6
+SHA256: 7b3fdfd53b76d78b94cdc511bab2241c0c664e731f966aee5fe265319e014b3c
 Section: Tweaks
 Description: Remote screenshot receiver tweak for jailbroken devices.
 Author: spiri2
